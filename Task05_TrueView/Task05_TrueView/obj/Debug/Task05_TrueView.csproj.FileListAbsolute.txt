@@ -1,0 +1,11 @@
+D:\Basic_C#\Task05_TrueView\Task05_TrueView\bin\Debug\Task05_TrueView.exe.config
+D:\Basic_C#\Task05_TrueView\Task05_TrueView\bin\Debug\Task05_TrueView.exe
+D:\Basic_C#\Task05_TrueView\Task05_TrueView\bin\Debug\Task05_TrueView.pdb
+D:\Basic_C#\Task05_TrueView\Task05_TrueView\obj\Debug\Task05_TrueView.csproj.AssemblyReference.cache
+D:\Basic_C#\Task05_TrueView\Task05_TrueView\obj\Debug\Task05_TrueView.csproj.SuggestedBindingRedirects.cache
+D:\Basic_C#\Task05_TrueView\Task05_TrueView\obj\Debug\Task05_TrueView.Form1.resources
+D:\Basic_C#\Task05_TrueView\Task05_TrueView\obj\Debug\Task05_TrueView.Properties.Resources.resources
+D:\Basic_C#\Task05_TrueView\Task05_TrueView\obj\Debug\Task05_TrueView.csproj.GenerateResource.cache
+D:\Basic_C#\Task05_TrueView\Task05_TrueView\obj\Debug\Task05_TrueView.csproj.CoreCompileInputs.cache
+D:\Basic_C#\Task05_TrueView\Task05_TrueView\obj\Debug\Task05_TrueView.exe
+D:\Basic_C#\Task05_TrueView\Task05_TrueView\obj\Debug\Task05_TrueView.pdb
